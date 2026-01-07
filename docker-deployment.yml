@@ -1,0 +1,5 @@
+---
+
+- name: Install Docker Server
+  package:
+    yum:
